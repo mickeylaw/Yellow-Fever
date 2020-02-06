@@ -1,0 +1,20 @@
+YELLOW FEVER v1.0 by 
+GROUP ONE 
+
+G54PRG PYGAME PROJECT 
+
+============
+
+DESCRIPTION
+-----------
+
+Beware of the lover boy and his love letters!
+
+A girl wakes up in castle land and suddenly all the boys start courting her. Help her avoid the boys and love letters by jumping over them by pressing space bar!  If you collide with the love letter you'll lose a point, if you collide with the boy GAME OVER! 
+
+
+********************
+
+This is a 2D side scrolling game where the user scores points for jumping and avoiding certain obstacles.
+The two obstacles present within the game are "love letters" and "boys". 
+Collision with the "love letter" would result in a deduction of 1 point while collision with the "boy" would result in a game over.
